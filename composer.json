@@ -1,0 +1,25 @@
+{
+    "name": "mentasystem/wallet",
+    "authors": [
+        {
+            "name": "MentaSystem Co",
+            "email": "mentasystem1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-4": {
+            "Mentasystem\\Wallet\\": "src/"
+        }
+    },
+
+    "require": {},
+    
+    
+    "repositories": [
+        {"type": "composer", "url": "https://repo.packagist.com/mentasystem/"},
+        {"packagist.org": false}
+    ]
+
+}
